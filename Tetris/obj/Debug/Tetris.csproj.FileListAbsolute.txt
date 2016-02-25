@@ -1,0 +1,9 @@
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.FrmConfig.resources
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\Work_Space\俄罗斯方块\Tetris\Tetris\obj\Debug\Tetris.pdb
